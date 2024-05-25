@@ -35,9 +35,6 @@ public class File {
       while ((linha = reader.readLine()) != null) {
         senhasLidas.add(linha);
       }
-      System.out.println(
-        "Senhas foram lidas do arquivo '" + nomeArquivo + "'."
-      );
     } catch (IOException e) {
       System.err.println("Erro ao ler do arquivo: " + e.getMessage());
     }
