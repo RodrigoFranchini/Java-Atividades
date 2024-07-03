@@ -5,6 +5,7 @@ Coleção de atividades básicas desenvolvidas em Java para portifólio.
 ## Índice
 
 1. [Gerador de senhas](./Gerador%20de%20senhas)
+2. [Gerenciamento de Investimentos](./Gerenciamento%20de%20Investimentos)
 
 ## Sobre
 
