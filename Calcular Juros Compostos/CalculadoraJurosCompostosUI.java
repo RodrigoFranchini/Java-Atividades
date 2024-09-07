@@ -33,9 +33,9 @@ public class CalculadoraJurosCompostosUI extends JFrame {
         // Adicionando os componentes à janela
         add(new JLabel("Principal (Valor Inicial): "));
         add(principalField);
-        add(new JLabel("Taxa de Juros (%): "));
+        add(new JLabel("Taxa de Juros ao ano(%): "));
         add(taxaField);
-        add(new JLabel("Número de Períodos: "));
+        add(new JLabel("Número de Períodos/Meses: "));
         add(periodosField);
         add(new JLabel(""));
         add(calcularButton);
