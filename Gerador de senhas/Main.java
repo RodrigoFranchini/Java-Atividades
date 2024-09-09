@@ -25,5 +25,6 @@ public class Main {
     for (String senha : senhasLidas) {
       System.out.println("Senha lida: " + senha);
     }
+    sc.close();
   }
 }
