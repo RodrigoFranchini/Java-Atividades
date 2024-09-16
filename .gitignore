@@ -10,4 +10,5 @@
 .idea/
 # Ignorar arquivos de configuração de módulos do IntelliJ
 *.iml
-
+#Ignorar pasta out
+out

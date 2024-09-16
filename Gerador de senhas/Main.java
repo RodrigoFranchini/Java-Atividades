@@ -5,7 +5,7 @@ public class Main {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    ArrayList<String> senhasGeradas = new ArrayList<>(); ///  Array com as listas já criadas
+    ArrayList<String> senhasGeradas = new ArrayList<>(); // Array com as listas já criadas
     PasswordGenerator generator = new PasswordGenerator();
     System.out.println("Digite a quantidade de senhas a serem geradas:");
     int quantidadeSenhas = sc.nextInt();
